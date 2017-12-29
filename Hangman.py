@@ -1,6 +1,5 @@
 # Name - Uday Mahajan
-#Assignment - Hangman - Final Project
-#Date of Submission - December 8th, 2016
+#Hangman - Final Project
 
 print("Student: Uday Mahajan")
 print("Assignment - Hangman - Final Project\n")
